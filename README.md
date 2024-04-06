@@ -7,7 +7,7 @@ Pizza Sales Analysis using SQL queries and PowerBI DAX Functions, PowerQueryEdit
 
 Steps Performed in Project
 
-## In MYSQL
+## MYSQL
 
 1. Data Import - Imported data in MYSQL
 2. Schema Creation - Designed a database schema for organizing the pizza sales data effectively.
